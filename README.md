@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kuvrot
 - 👀 I’m interested in game development and in academic music.
-- 🌱 I’m currently studying IT Engineer grade and learning tools for game development, various programming languages, some frameworks, piano, musical composition, and german.
+- 🌱 I’m currently studying IT Engineer grade and a musician.
 
       https://deadprocess.itch.io/rosemary-framework
 
