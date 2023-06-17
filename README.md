@@ -1,12 +1,5 @@
 - 👋 Hi, I’m @Kuvrot
-- 👀 I’m interested in game development and in academic music.
-- 🌱 I’m currently studying IT Engineer grade and a musician.
-
-      https://deadprocess.itch.io/rosemary-framework
-
-      https://gamejolt.com/@DeadProcess/games
-
-      https://musescore.com/user/27560846/sheetmusic
+- 🌱 IT student.
 
 <!---
 Kuvrot/Kuvrot is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
