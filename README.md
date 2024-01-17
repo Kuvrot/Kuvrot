@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Kuvrot
-- 🌱 IT student.
+- 🌱 IT engineer
 
 <!---
 Kuvrot/Kuvrot is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
